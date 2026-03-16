@@ -755,10 +755,3 @@ else:
 | Script | Good example of |
 |--------|----------------|
 | `demo_provider.py` | Basic template, session management |
-| `dazn_de.py` | Full-featured: browser WAF bypass, key dump, device ID, events + linear |
-| `dazn.py` | Global multi-region, auto-detect from JWT |
-| `nba.py` | Multi-source channels, HLS PSSH, Akamai tokens, nbaidentity cookie auth |
-| `shoq.py` | Simple DRM provider, Vualto license proxy format |
-| `tataplay.py` | OTP login flow, AES-encrypted session |
-| `jiotv.py` | OTP login flow, credential file caching |
-| `viaplay.py` | Cookie-based session, event discovery |
